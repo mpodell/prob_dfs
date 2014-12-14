@@ -1,9 +1,9 @@
 Package: prob_dfs
 Type: Package
-Title: What the package does (short line)
+Title: data sets and functions for capstone
 Version: 1.0
 Date: 2014-12-14
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Michael O'Dell
+Maintainer: Who to complain to <mp_odell@yahoo.com>
+Description: needed for the shiny app
+License: GLP v3
