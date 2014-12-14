@@ -3,11 +3,11 @@
 \alias{prob_dfs}
 \docType{package}
 \title{
-What the package does (short line)
+data and functions for capstone
 ~~ package title ~~
 }
 \description{
-More about what it does (maybe more than one line)
+2 and 3 gram tables along with 1 gram table. functions for data process
 ~~ A concise (1-5 lines) description of the package ~~
 }
 \details{
@@ -21,9 +21,9 @@ License: \tab What license is it under?\cr
 ~~ An overview of how to use the package, including the most important functions ~~
 }
 \author{
-Who wrote it
+Michael O'Dell
 
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Maintainer: Who to complain to <mp_odell@yahoo.com>
 ~~ The author and/or maintainer of the package ~~
 }
 \references{
